@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "309049176278",
+    "firebase_url": "https://flutterloginauth.firebaseio.com",
+    "project_id": "flutterloginauth",
+    "storage_bucket": "flutterloginauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309049176278:android:9448430cfd89f6c9981977",
+        "android_client_info": {
+          "package_name": "com.example.firebase_user_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309049176278-ubab6arodpq4t03cua7co9eqrf85p5pt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoILB36x0TS5U6-jxHGB9a5rFtzwlnOAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309049176278-ubab6arodpq4t03cua7co9eqrf85p5pt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
